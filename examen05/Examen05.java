@@ -13,7 +13,7 @@ public class Examen05 {
             BufferedReader bf;
             String numeros;
             String Arreglo[];
-            fr = new FileReader("‪C:\\Users\\Graciela\\Desktop\\Mi_Archivo.txt");
+            fr = new FileReader("‪C:\\Users\\Sury\\Desktop\\Mi_Archivo.txt");
             bf = new BufferedReader(fr);
             
             numeros = bf.readLine();
